@@ -55,7 +55,9 @@
 
  * If you'd like to help in next year's organisation...
 
- * Thanks the sponsors and supporters again
+ * Thank the sponsors and supporters again
+
+ * Thank the helpers.
 
  * Up-coming BarCamps -- ask Paul to say a few words?
 
